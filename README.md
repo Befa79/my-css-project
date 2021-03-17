@@ -149,6 +149,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 - https://follybeachchairrentals.com/rentals/same-day-rentals/ (logo)
 - https://stackoverflow.com/ (filter css style )
 - https://unsplash.com/ (images)
+- https://github.com/planetoftheweb/bootstrap4 (bootstrap)
 
 Thanks for the tutor team for their help
 Thanks to my mentor Brian for the help
