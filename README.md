@@ -89,7 +89,7 @@ They are built to divide the screen size per 3 until the screen goes under 576px
 | Informative cards | screen sizing| change layout from 3 cards to 1 under 576 px| Passed| 
 | Card-title| screen sizing| size reduced under 992px| Passed| 
 | Past-event images| screen sizing| change layout from 3 images to 1 under 576 px| Passed| 
-| Images| screen sizing| All images are resizing as the screen does (fluid)| click| when all fields are correctly entered with a valid credit card number, payment should be executed| Passed| 
+| Images| screen sizing| All images are resizing as the screen does (fluid)| Passed| 
 | Images text| screen sizing | left-aligned when size is under 576px| Passed| 
 
 ### Browser Compatibility:
