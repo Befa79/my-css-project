@@ -3,13 +3,16 @@
     filter: brightness(0) invert(1);
 }
 
+
 #navbar{
-    background-color: rgb(154, 124, 182);
+    background-color: rgb(123,104,238);
+    opacity: 95%;
 }
 
 #submit-button{
-    background-color: rgb(154, 124, 182);
+    background-color: rgb(123,104,238);
     color: white;
+    opacity: 95%
 }
 
 #hero-image{
@@ -33,17 +36,26 @@
     text-decoration: none;
 }
 
-/* footer */
+ a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(169,169,169);
+    text-align: center;
+}
 
 
-/* responsiveness */
+
+/*-----------------------------------Media Queries-----------------------------------*/
 
 
 @media (max-width: 576px) {
         #welcome{
         font-size: xx-large;
-    }
-        #welcome-text{
-        margin-top: 0;
     }
 }
