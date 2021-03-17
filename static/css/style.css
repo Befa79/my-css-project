@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+
 .image-logo{
     width: 50px;
     filter: brightness(0) invert(1);
@@ -47,15 +50,23 @@
     width: 100%;
     background-color: rgb(169,169,169);
     text-align: center;
+    font-family: Redressed;
 }
 
 
 
 /*-----------------------------------Media Queries-----------------------------------*/
 
+@media (max-width: 992px) {
+        .card-title{
+        font-size: medium;
+    }
+}
 
 @media (max-width: 576px) {
         #welcome{
         font-size: xx-large;
     }
 }
+
+
