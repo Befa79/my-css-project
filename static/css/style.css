@@ -31,8 +31,7 @@
 #img-gallery {
     margin-top: 15px;
     width: 100%;
-    height: 200px;
-    max-height: 200px;
+    height: auto;
 }
 
 #subscribe-link{

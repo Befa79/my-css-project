@@ -77,7 +77,7 @@ They are built to divide the screen size per 3 until the screen goes under 576px
 | Contact menu| click| Go to the contact.html from "Contact" menu| Passed| 
 | Subscribe| click| Go to the contact.html from "subscribe" menu| Passed| 
 | Form| enter text & click| entering email and password and submit| Passed| 
-
+| Navbar Sticky-top| scroll| NavBar should stay on the top when scolling down| Passed| 
 
 ### - Responsiveness:
 | Test| Action| Expected Result| Test Result| 
@@ -100,7 +100,6 @@ They are built to divide the screen size per 3 until the screen goes under 576px
 | Edge| Check Features and Responsiveness| Same as Chrome| Passed|
 
 ## Deployment
-
 
 To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/Befa79/my-css-project), the following steps were taken: 
 1. Log into GitHub. 
