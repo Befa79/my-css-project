@@ -1,0 +1,44 @@
+.image-logo{
+    width: 50px;
+    filter: brightness(0) invert(1);
+}
+
+#navbar{
+    background-color: rgb(154, 124, 182);
+}
+
+#submit-button{
+    background-color: rgb(154, 124, 182);
+    color: white;
+}
+
+#hero-image{
+    height:700px;
+    width: 100%;
+}
+
+#welcome-text{
+    margin-top: 0;
+}
+
+/* footer */
+
+
+
+/* responsiveness */
+@media (max-width: 992px) {
+        #welcome-text{
+        margin-top: 0;
+    }
+}
+
+
+
+@media (max-width: 576px) {
+        #welcome{
+        font-size: xx-large;
+    }
+        #welcome-text{
+        margin-top: 0;
+    }
+}
